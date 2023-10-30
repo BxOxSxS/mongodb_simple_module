@@ -1,0 +1,81 @@
+[{
+  "name": "3 Series",
+  "price": 236.83,
+  "in_stock": 2.86
+}, {
+  "name": "Daewoo Lacetti",
+  "price": 279.52,
+  "in_stock": 94.29
+}, {
+  "name": "RAV4",
+  "price": 84.83,
+  "in_stock": 92.22
+}, {
+  "name": "X5",
+  "price": 766.93,
+  "in_stock": 33.43
+}, {
+  "name": "ES",
+  "price": 907.19,
+  "in_stock": 67.6
+}, {
+  "name": "Lancer Evolution",
+  "price": 282.15,
+  "in_stock": 91.84
+}, {
+  "name": "Corolla",
+  "price": 406.0,
+  "in_stock": 47.91
+}, {
+  "name": "Avalanche",
+  "price": 66.93,
+  "in_stock": 60.02
+}, {
+  "name": "Charger",
+  "price": 267.85,
+  "in_stock": 97.08
+}, {
+  "name": "TL",
+  "price": 648.66,
+  "in_stock": 54.18
+}, {
+  "name": "Legacy",
+  "price": 661.85,
+  "in_stock": 7.19
+}, {
+  "name": "SLR McLaren",
+  "price": 978.05,
+  "in_stock": 6.85
+}, {
+  "name": "X5 M",
+  "price": 543.75,
+  "in_stock": 85.22
+}, {
+  "name": "Viper",
+  "price": 129.78,
+  "in_stock": 30.7
+}, {
+  "name": "Daytona",
+  "price": 190.98,
+  "in_stock": 11.73
+}, {
+  "name": "Challenger",
+  "price": 967.31,
+  "in_stock": 45.57
+}, {
+  "name": "Express 2500",
+  "price": 889.67,
+  "in_stock": 90.2
+}, {
+  "name": "Accent",
+  "price": 615.65,
+  "in_stock": 9.56
+}, {
+  "name": "Q5",
+  "price": 41.79,
+  "in_stock": 64.82
+}, {
+  "name": "Sierra 2500",
+  "price": 474.47,
+  "in_stock": 45.79
+}]
